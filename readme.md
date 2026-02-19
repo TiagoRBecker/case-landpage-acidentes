@@ -45,12 +45,12 @@ O projeto utiliza uma stack moderna focada em Web Vitals e controle total do amb
 
 ### 📩 Fluxo de Captação de Leads
 <div align="center">
-  <img src="assets/acidentes/1.jpg" width="90%" alt="Formulário de Contato Acidentes">
+  <img src="assets/acidentes/1.png" width="90%" alt="Formulário de Contato Acidentes">
 </div>
 
 ### 📩 Full View
 <div align="center">
-  <img src="assets/acidentes/8.jpg" width="90%" alt="Full view">
+  <img src="assets/acidentes/8.png" width="90%" alt="Full view">
 </div>
 
 
